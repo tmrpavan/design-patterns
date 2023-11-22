@@ -16,7 +16,18 @@ method returns an object referred to as Products.
 
 Factory method is overridden in the child class and changes the products created by the method.
 
+## Code
+#### Step 1:
+Create a Transport interface that is common for all the objects which is created by the factory method.
+#### Step 2:
+Create concurrent classes which are different implementations of the Transport interface.
 
+![Transport](/src/main/resources/Transport.png "Transport")
 
+#### Step 3;
+Create a Logistics class and declare a factory method that can return instances of Transport Type
 
+#### Step 4:
+Override factory method in different concurrent classes to create Transport objets based on the business logic.
 
+![Logistics](/src/main/resources/Logistics.png "Logistics")
