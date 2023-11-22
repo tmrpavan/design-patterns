@@ -22,7 +22,7 @@ Create a Transport interface that is common for all the objects which is created
 #### Step 2:
 Create concurrent classes which are different implementations of the Transport interface.
 
-![Transport](/src/main/resources/Transport.png "Transport")
+![Transport](creational-patterns/factory-method/src/main/resources/Logistics.png "Transport")
 
 #### Step 3;
 Create a Logistics class and declare a factory method that can return instances of Transport Type
@@ -30,4 +30,4 @@ Create a Logistics class and declare a factory method that can return instances 
 #### Step 4:
 Override factory method in different concurrent classes to create Transport objets based on the business logic.
 
-![Logistics](/src/main/resources/Logistics.png "Logistics")
+![Logistics](/creational-patterns/factory-method/src/main/resources/Logistics.png "Logistics")
