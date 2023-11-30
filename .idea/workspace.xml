@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23e836a4-8584-4542-96dd-a9ab4c5eabeb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/creational-patterns/abstract-factory/src/main/java/MacFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/abstract-factory/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/abstract-factory/src/main/java/UIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/abstract-factory/src/main/java/WinFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/abstract-factory/src/main/java/button/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/abstract-factory/src/main/java/button/MacButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/abstract-factory/src/main/java/button/WinButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/abstract-factory/src/main/java/checkbox/Checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/abstract-factory/src/main/java/checkbox/MacCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/abstract-factory/src/main/java/checkbox/WinCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/builder/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/builder/src/main/java/URL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/prototype/src/main/java/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/prototype/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/prototype/src/main/java/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/prototype/src/main/java/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/prototype/src/test/java/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational-patterns/singleton/src/main/java/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creational-patterns/builder/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/creational-patterns/builder/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creational-patterns/builder/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/creational-patterns/builder/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2YspSyysk11gmuUhShfyBHxs0oD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "tmr-pavan-builder",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "D:/Pavan/design-patterns",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23e836a4-8584-4542-96dd-a9ab4c5eabeb" name="Changes" comment="" />
+      <created>1701324144956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701324144956</updated>
+      <workItem from="1701324146037" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
